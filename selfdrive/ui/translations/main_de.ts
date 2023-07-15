@@ -1139,6 +1139,10 @@ This may take up to a minute.</source>
         <source>Navigate on openpilot</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Override Stock ACC</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Updater</name>
